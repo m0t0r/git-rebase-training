@@ -1,3 +1,3 @@
 # git-rebase-training
 
-Some conflicting changes here
+Adding my feature here
